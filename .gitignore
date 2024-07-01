@@ -1,0 +1,5 @@
+mysql/auto.cnf
+mysql/binlog.000001
+mysql/binlog.index
+mysql/mysql.sock
+
